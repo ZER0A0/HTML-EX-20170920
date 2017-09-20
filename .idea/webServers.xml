@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="448e721c-f1c6-4a3b-a62c-b967b8883d4f" name="OAO" url="http://120.108.117.245/~105021041/">
+        <fileTransfer host="120.108.117.245" port="22" rootFolder="/home/105021041/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
